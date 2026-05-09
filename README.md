@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi 👋, I'm Rohit Patel
 
-<!--
-**patelsaab1/patelsaab1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack MERN Developer
 
-Here are some ideas to get you started:
+🚀 I build:
+- POS Systems
+- Inventory Management Software
+- School Management Dashboards
+- MERN Stack Applications
+- React.js Admin Panels
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 💻 Tech Stack
+
+## Frontend
+- React.js
+- Next.js
+- Tailwind CSS
+- Ant Design
+- Material UI
+- Redux Toolkit
+
+## Backend
+- Node.js
+- Express.js
+- MongoDB
+- PostgreSQL
+- Firebase
+
+---
+
+# 📌 Featured Projects
+
+## 🔹 POS Management System
+Repair shop + accessories billing + inventory system.
+
+## 🔹 School Management Portal
+Student, fees, reports, dashboard management.
+
+## 🔹 Inventory ERP System
+Centralized inventory management system.
+
+---
+
+# 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=patelsaab1&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patelsaab1&layout=compact&theme=tokyonight)
+
+---
+
+# 🌐 Connect With Me
+
+- LinkedIn
+- Portfolio Website
+- Email
+
+---
+
+⭐ Always learning and building scalable applications.
