@@ -1,3 +1,5 @@
+
+![Banner](./RohitPatelBanner.png)
 # Hi 👋, I'm Rohit Patel
 
 ## Full Stack MERN Developer
